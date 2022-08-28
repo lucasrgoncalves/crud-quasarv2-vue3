@@ -1,33 +1,36 @@
-# Quasar App (app)
+# Quasar App
 
-A Quasar Project
+CRUD utilizando Framework Quasar, VueJS3, Axios e simulando consumo de API através do pacote json-server.
 
-## Install the dependencies
+## Após clonar, acessar a pasta do projeto e executar os comandos abaixo:
+
+### Instalar dependências:
 ```bash
-yarn
-# or
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Iniciar servidor da API:
+```bash
+json-server --watch db.json
+```
+
+### Iniciar servidor da aplicação:
 ```bash
 quasar dev
 ```
 
+## URL's para acesso:
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
+<ul>
+    <li><b>API:</b> http://localhost:3000/posts</li>
+    <li><b>Aplicação:</b> http://localhost:8080</li>
+</ul>
 
+## Tecnologias Utilizadas:
 
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+<ul>
+    <li>Quasar Framework</li>
+    <li>VueJS 3</li>
+    <li>Postman</li>
+    <li>Pacote json-server</li>
+</ul>
