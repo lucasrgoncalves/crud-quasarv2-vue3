@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "CRUD Quasar 1",
+      "author": "Autor Desconhecido 1",
+      "content": "Artigo sobre VUE 3, Quasar e API REST 1."
+    },
+    {
+      "id": 2,
+      "title": "CRUD Quasar 2",
+      "author": "Autor Desconhecido 2",
+      "content": "Artigo sobre VUE 3, Quasar e API REST 2."
+    },
+    {
+      "id": 3,
+      "title": "CRUD Quasar 3",
+      "author": "Autor Desconhecido 3",
+      "content": "Artigo sobre VUE 3, Quasar e API REST 3."
+    },
+    {
+      "id": 4,
+      "title": "CRUD Quasar 4",
+      "author": "Autor Desconhecido 4",
+      "content": "Artigo sobre VUE 3, Quasar e API REST 4."
+    },
+    {
+      "id": 5,
+      "title": "CRUD Quasar 5",
+      "author": "Autor Desconhecido 5",
+      "content": "Artigo sobre VUE 3, Quasar e API REST 5."
+    },
+    {
+      "id": 6,
+      "title": "CRUD Quasar 6",
+      "author": "Autor Desconhecido 6",
+      "content": "Artigo sobre VUE 3, Quasar e API REST 6."
+    },
+    {
+      "id": 7,
+      "title": "CRUD Quasar 7",
+      "author": "Autor Desconhecido 7",
+      "content": "Artigo sobre VUE 3, Quasar e API REST 7."
+    },
+    {
+      "id": 8,
+      "title": "CRUD Quasar 8",
+      "author": "Autor Desconhecido 8",
+      "content": "Artigo sobre VUE 3, Quasar e API REST 8."
+    },
+    {
+      "id": 9,
+      "title": "CRUD Quasar 9",
+      "author": "Autor Desconhecido 9",
+      "content": "Artigo sobre VUE 3, Quasar e API REST 9."
+    },
+    {
+      "id": 10,
+      "title": "CRUD Quasar 10",
+      "author": "Autor Desconhecido 10",
+      "content": "Artigo sobre VUE 3, Quasar e API REST 10."
+    }
+  ]
+}
