@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar Crud
+          Quasar Crud com Deploy
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
