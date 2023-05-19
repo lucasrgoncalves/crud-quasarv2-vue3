@@ -9,14 +9,14 @@ CRUD utilizando Framework Quasar, VueJS3, Axios e simulando consumo de API atrav
 npm install
 ```
 
-### Iniciar servidor da API:
+### Instalar globalmente json-server e iniciar servidor da API:
 ```bash
-json-server --watch db.json
+npm install -g json-server && json-server --watch db.json
 ```
 
-### Iniciar servidor da aplicação:
+### Instalar globalmente quasar@cli e iniciar servidor da aplicação:
 ```bash
-quasar dev
+npm install -g @quasar/cli && quasar dev
 ```
 
 ## URL's para acesso:
